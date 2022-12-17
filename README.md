@@ -1,1 +1,1 @@
-# [error-404](https://github.com/andrplko/error-404/)
+# [error-404](https://andrplko.github.io/error-404/)
